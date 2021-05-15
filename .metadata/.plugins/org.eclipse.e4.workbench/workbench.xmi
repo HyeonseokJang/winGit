@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmlns:ui="http://www.eclipse.org/ui/2010/UIModel/application/ui" xmi:id="_ieZ0YLVoEeudYdwLZB526Q" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ieZ0YbVoEeudYdwLZB526Q" bindingContexts="_iebEwLVoEeudYdwLZB526Q">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;testPage/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor&quot; name=&quot;globals.properties&quot; tooltip=&quot;testPage/src/main/resources/egovframework/egovProps/globals.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/egovProps/globals.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;sql-map-config-maria-uat.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-uat.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-uat.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;sql-map-config-maria-cop-bbs.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-cop-bbs.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-cop-bbs.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;sql-map-config-maria-cop-smt.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-cop-smt.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-cop-smt.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;sql-map-config-maria-cop-com.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-cop-com.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-cop-com.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;sql-map-config-maria-cmm.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-cmm.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/sqlmap/config/maria/sql-map-config-maria-cmm.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-sqlMap.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/spring/com/context-sqlMap.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/spring/com/context-sqlMap.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;egov-com-servlet.xml&quot; tooltip=&quot;testPage/src/main/webapp/WEB-INF/config/egovframework/springmvc/egov-com-servlet.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/webapp/WEB-INF/config/egovframework/springmvc/egov-com-servlet.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-common.xml&quot; tooltip=&quot;ex01/src/main/resources/egovframework/spring/com/context-common.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ex01/src/main/resources/egovframework/spring/com/context-common.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-datasource.xml&quot; tooltip=&quot;ex01/src/main/resources/egovframework/spring/com/context-datasource.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ex01/src/main/resources/egovframework/spring/com/context-datasource.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-datasource.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/spring/com/context-datasource.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/spring/com/context-datasource.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor&quot; name=&quot;globals.properties&quot; tooltip=&quot;ex01/src/main/resources/egovframework/egovProps/globals.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ex01/src/main/resources/egovframework/egovProps/globals.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.wst.server.ui.editor.input.factory&quot; id=&quot;org.eclipse.wst.server.ui.editor&quot; name=&quot;Tomcat v8.5 Server at localhost&quot; tooltip=&quot;Tomcat v8.5 Server at localhost&quot;>&#xD;&#xA;&lt;persistable server-id=&quot;Tomcat v8.5 Server at localhost&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CmmUseDAO.java&quot; tooltip=&quot;ex01/src/main/java/egovframework/com/cmm/service/impl/CmmUseDAO.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ex01/src/main/java/egovframework/com/cmm/service/impl/CmmUseDAO.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EgovBBSManageController.java&quot; tooltip=&quot;ex01/src/main/java/egovframework/let/cop/bbs/web/EgovBBSManageController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ex01/src/main/java/egovframework/let/cop/bbs/web/EgovBBSManageController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;ex01/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ex01/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor&quot; name=&quot;shtdb.sql&quot; tooltip=&quot;ex01/src/main/resources/db/shtdb.sql&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ex01/src/main/resources/db/shtdb.sql&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-sqlMap.xml&quot; tooltip=&quot;ex01/src/main/resources/egovframework/spring/com/context-sqlMap.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ex01/src/main/resources/egovframework/spring/com/context-sqlMap.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;sql-mapper-config.xml&quot; tooltip=&quot;ex01/src/main/resources/egovframework/sqlmap/config/sql-mapper-config.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/ex01/src/main/resources/egovframework/sqlmap/config/sql-mapper-config.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SampleVO.java&quot; tooltip=&quot;test_Mybatis/src/main/java/egovframework/example/sample/service/SampleVO.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/java/egovframework/example/sample/service/SampleVO.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EgovSampleController.java&quot; tooltip=&quot;test_Mybatis/src/main/java/egovframework/example/sample/web/EgovSampleController.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/java/egovframework/example/sample/web/EgovSampleController.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;EgovSample_Sample_SQL.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/sqlmap/example/mappers/EgovSample_Sample_SQL.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/sqlmap/example/mappers/EgovSample_Sample_SQL.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;egovframework.dev.imp.dbio.editor.mapperEditor&quot; name=&quot;EgovSample_Sample_SQL.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/sqlmap/example/sample/EgovSample_Sample_SQL.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/sqlmap/example/sample/EgovSample_Sample_SQL.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-sqlMap.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-sqlMap.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-sqlMap.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-mapper.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-mapper.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-mapper.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor&quot; name=&quot;globals.properties&quot; tooltip=&quot;testPage/src/main/resources/egovframework/egovProps/globals.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/egovProps/globals.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-datasource.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-datasource.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-datasource.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;sql-map-config.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/sqlmap/example/sql-map-config.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/sqlmap/example/sql-map-config.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;sql-mapper-config.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/sqlmap/example/sql-mapper-config.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/sqlmap/example/sql-mapper-config.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;test_Mybatis/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor&quot; name=&quot;sampledb.sql&quot; tooltip=&quot;test_Mybatis/src/main/resources/db/sampledb.sql&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/db/sampledb.sql&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.wst.server.ui.editor.input.factory&quot; id=&quot;org.eclipse.wst.server.ui.editor&quot; name=&quot;Tomcat v8.5 Server at localhost&quot; tooltip=&quot;Tomcat v8.5 Server at localhost&quot;>&#xD;&#xA;&lt;persistable server-id=&quot;Tomcat v8.5 Server at localhost&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-datasource.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/spring/com/context-datasource.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/src/main/resources/egovframework/spring/com/context-datasource.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-common.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-common.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-common.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;testPage/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/testPage/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-validator.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-validator.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-validator.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-transaction.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-transaction.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-transaction.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-properties.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-properties.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-properties.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-idgen.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-idgen.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-idgen.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_ieZ0YbVoEeudYdwLZB526Q" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_ieZ0YrVoEeudYdwLZB526Q" label="%trimmedwindow.label.eclipseSDK" x="46" y="24" width="1024" height="768">
@@ -11,6 +11,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1618225316487"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_ieZ0YrVoEeudYdwLZB526Q" selectedElement="_ieZ0Y7VoEeudYdwLZB526Q" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_ieZ0Y7VoEeudYdwLZB526Q" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_ieZ0fbVoEeudYdwLZB526Q">
         <children xsi:type="advanced:Perspective" xmi:id="_ieZ0ZLVoEeudYdwLZB526Q" elementId="org.eclipse.jst.j2ee.J2EEPerspective" selectedElement="_ieZ0ZbVoEeudYdwLZB526Q" label="Java EE" iconURI="platform:/plugin/org.eclipse.jst.j2ee.ui/icons/full/cview16/j2ee_perspective.gif">
@@ -244,7 +245,7 @@
           <tags>persp.newWizSC:egovframework.dev.imp.dbio.wizard.newMapper</tags>
           <tags>persp.viewSC:egovframework.dev.imp.dbio.view.dbioSearch</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_ieZ0frVoEeudYdwLZB526Q" selectedElement="_ieZ0hbVoEeudYdwLZB526Q" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_ieZ0f7VoEeudYdwLZB526Q" containerData="2187" selectedElement="_ieZ0g7VoEeudYdwLZB526Q">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_ieZ0f7VoEeudYdwLZB526Q" containerData="2187" selectedElement="_ieZ0gLVoEeudYdwLZB526Q">
               <children xsi:type="basic:PartStack" xmi:id="_ieZ0gLVoEeudYdwLZB526Q" elementId="left" containerData="6900" selectedElement="_ieZ0gbVoEeudYdwLZB526Q">
                 <children xsi:type="advanced:Placeholder" xmi:id="_ieZ0gbVoEeudYdwLZB526Q" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_ieadRrVoEeudYdwLZB526Q" closeable="true">
                   <tags>View</tags>
@@ -262,11 +263,11 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_ieZ0hbVoEeudYdwLZB526Q" containerData="7813" selectedElement="_ieZ0i7VoEeudYdwLZB526Q">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_ieZ0hbVoEeudYdwLZB526Q" containerData="7813" selectedElement="_ieZ0hrVoEeudYdwLZB526Q">
               <children xsi:type="basic:PartSashContainer" xmi:id="_ieZ0hrVoEeudYdwLZB526Q" containerData="6068" selectedElement="_ieZ0h7VoEeudYdwLZB526Q" horizontal="true">
-                <children xsi:type="advanced:Placeholder" xmi:id="_ieZ0h7VoEeudYdwLZB526Q" elementId="org.eclipse.ui.editorss" containerData="5000" ref="_ieacabVoEeudYdwLZB526Q"/>
-                <children xsi:type="basic:PartStack" xmi:id="_ieZ0iLVoEeudYdwLZB526Q" elementId="right" toBeRendered="false" containerData="2500">
-                  <children xsi:type="advanced:Placeholder" xmi:id="_ieZ0ibVoEeudYdwLZB526Q" elementId="org.eclipse.ui.views.ContentOutline" toBeRendered="false" ref="_ieadQrVoEeudYdwLZB526Q" closeable="true">
+                <children xsi:type="advanced:Placeholder" xmi:id="_ieZ0h7VoEeudYdwLZB526Q" elementId="org.eclipse.ui.editorss" containerData="5383" ref="_ieacabVoEeudYdwLZB526Q"/>
+                <children xsi:type="basic:PartStack" xmi:id="_ieZ0iLVoEeudYdwLZB526Q" elementId="right" containerData="2117" selectedElement="_ieZ0ibVoEeudYdwLZB526Q">
+                  <children xsi:type="advanced:Placeholder" xmi:id="_ieZ0ibVoEeudYdwLZB526Q" elementId="org.eclipse.ui.views.ContentOutline" ref="_ieadQrVoEeudYdwLZB526Q" closeable="true">
                     <tags>View</tags>
                     <tags>categoryTag:General</tags>
                   </children>
@@ -278,7 +279,6 @@
               </children>
               <children xsi:type="basic:PartStack" xmi:id="_ieZ0i7VoEeudYdwLZB526Q" elementId="bottom" containerData="3932" selectedElement="_ieZ0kbVoEeudYdwLZB526Q">
                 <tags>General</tags>
-                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ieZ0jLVoEeudYdwLZB526Q" elementId="org.eclipse.ui.views.ProblemView" ref="_ieac4rVoEeudYdwLZB526Q" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
@@ -375,176 +375,89 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_ieacabVoEeudYdwLZB526Q" elementId="org.eclipse.ui.editorss" selectedElement="_ieacarVoEeudYdwLZB526Q">
-      <children xsi:type="basic:PartStack" xmi:id="_ieacarVoEeudYdwLZB526Q" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_ieaca7VoEeudYdwLZB526Q">
+      <children xsi:type="basic:PartStack" xmi:id="_ieacarVoEeudYdwLZB526Q" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_YwcdILVvEeuNpq0HR65zaA">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <children xsi:type="basic:Part" xmi:id="_ieaca7VoEeudYdwLZB526Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="globals.properties" iconURI="platform:/plugin/jp.gr.java_conf.ussiy.app.propedit/icons/IconByTaroTw.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor&quot; name=&quot;globals.properties&quot; partName=&quot;globals.properties&quot; title=&quot;globals.properties&quot; tooltip=&quot;testPage/src/main/resources/egovframework/egovProps/globals.properties&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/testPage/src/main/resources/egovframework/egovProps/globals.properties&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;992&quot; selectionTopPixel=&quot;486&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacbLVoEeudYdwLZB526Q" elementId="#PropertiesEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#PropertiesEditorContext</tags>
-            <tags>popup:jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacbbVoEeudYdwLZB526Q" elementId="#TextRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextRulerContext</tags>
-            <tags>popup:jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacbrVoEeudYdwLZB526Q" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_ieacb7VoEeudYdwLZB526Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="context-datasource.xml" iconURI="platform:/plugin/org.springframework.ide.eclipse.config.ui/icons/bean-config.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-datasource.xml&quot; partName=&quot;context-datasource.xml&quot; title=&quot;context-datasource.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/spring/com/context-datasource.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/testPage/src/main/resources/egovframework/spring/com/context-datasource.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <tags>active</tags>
+        <children xsi:type="basic:Part" xmi:id="_pQD8ILVtEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="context-datasource.xml" iconURI="platform:/plugin/org.springframework.ide.eclipse.config.ui/icons/bean-config.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-datasource.xml&quot; partName=&quot;context-datasource.xml&quot; title=&quot;context-datasource.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-datasource.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-datasource.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>com.springsource.sts.config.ui.editors.SpringConfigEditor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieaccLVoEeudYdwLZB526Q" elementId="com.springsource.sts.config.ui.beanConfigFile.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:com.springsource.sts.config.ui.beanConfigFile.source.EditorContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieaccbVoEeudYdwLZB526Q" elementId="com.springsource.sts.config.ui.beanConfigFile.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:com.springsource.sts.config.ui.beanConfigFile.source.RulerContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieaccrVoEeudYdwLZB526Q" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacc7VoEeudYdwLZB526Q" elementId="com.springsource.sts.config.ui.beanConfigFile.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:com.springsource.sts.config.ui.beanConfigFile.source.EditorContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacdLVoEeudYdwLZB526Q" elementId="com.springsource.sts.config.ui.beanConfigFile.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:com.springsource.sts.config.ui.beanConfigFile.source.RulerContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacdbVoEeudYdwLZB526Q" elementId="org.springframework.ide.eclipse.beans.ui.graph.editor.contextmenu">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.springframework.ide.eclipse.beans.ui.graph.editor.contextmenu</tags>
-          </menus>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_ieacdrVoEeudYdwLZB526Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="context-sqlMap.xml" iconURI="platform:/plugin/org.springframework.ide.eclipse.config.ui/icons/bean-config.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-sqlMap.xml&quot; partName=&quot;context-sqlMap.xml&quot; title=&quot;context-sqlMap.xml&quot; tooltip=&quot;testPage/src/main/resources/egovframework/spring/com/context-sqlMap.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/testPage/src/main/resources/egovframework/spring/com/context-sqlMap.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_sbXagLVtEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Tomcat v8.5 Server at localhost" iconURI="platform:/plugin/org.eclipse.wst.server.ui/icons/obj16/server.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.server.ui.editor&quot; name=&quot;Tomcat v8.5 Server at localhost&quot; partName=&quot;Tomcat v8.5 Server at localhost&quot; title=&quot;Tomcat v8.5 Server at localhost&quot; tooltip=&quot;Tomcat v8.5 Server at localhost&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.wst.server.ui.editor.input.factory&quot; server-id=&quot;Tomcat v8.5 Server at localhost&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
-          <tags>com.springsource.sts.config.ui.editors.SpringConfigEditor</tags>
+          <tags>org.eclipse.wst.server.ui.editor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacd7VoEeudYdwLZB526Q" elementId="com.springsource.sts.config.ui.beanConfigFile.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:com.springsource.sts.config.ui.beanConfigFile.source.EditorContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieaceLVoEeudYdwLZB526Q" elementId="com.springsource.sts.config.ui.beanConfigFile.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:com.springsource.sts.config.ui.beanConfigFile.source.RulerContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacebVoEeudYdwLZB526Q" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacerVoEeudYdwLZB526Q" elementId="com.springsource.sts.config.ui.beanConfigFile.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:com.springsource.sts.config.ui.beanConfigFile.source.EditorContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieace7VoEeudYdwLZB526Q" elementId="com.springsource.sts.config.ui.beanConfigFile.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:com.springsource.sts.config.ui.beanConfigFile.source.RulerContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacfLVoEeudYdwLZB526Q" elementId="org.springframework.ide.eclipse.beans.ui.graph.editor.contextmenu">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.springframework.ide.eclipse.beans.ui.graph.editor.contextmenu</tags>
-          </menus>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_ieacfbVoEeudYdwLZB526Q" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="testPage/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;testPage/pom.xml&quot; title=&quot;testPage/pom.xml&quot; tooltip=&quot;testPage/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/testPage/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_xIFBQLVtEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="sampledb.sql" iconURI="platform:/plugin/org.eclipse.datatools.sqltools.sqlscrapbook/images/qrydoc.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor&quot; name=&quot;sampledb.sql&quot; partName=&quot;sampledb.sql&quot; title=&quot;sampledb.sql&quot; tooltip=&quot;test_Mybatis/src/main/resources/db/sampledb.sql&quot;>&#xD;&#xA;&lt;input connInfoName=&quot;Undefined:::&quot; editorInputType=&quot;SQLScrapbookEditorInput&quot; factoryID=&quot;org.eclipse.datatools.sqltools.internal.sqlscrapbook.editor.SQLScrapbookEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/resources/db/sampledb.sql&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1150&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_l_siILVuEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="test_Mybatis/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;test_Mybatis/pom.xml&quot; title=&quot;test_Mybatis/pom.xml&quot; tooltip=&quot;test_Mybatis/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
           <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacfrVoEeudYdwLZB526Q" elementId="org.eclipse.core.runtime.xml.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.EditorContext</tags>
-            <tags>popup:.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacf7VoEeudYdwLZB526Q" elementId="org.eclipse.core.runtime.xml.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.RulerContext</tags>
-            <tags>popup:.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacgLVoEeudYdwLZB526Q" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacgbVoEeudYdwLZB526Q" elementId="org.eclipse.core.runtime.xml.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.EditorContext</tags>
-            <tags>popup:.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacgrVoEeudYdwLZB526Q" elementId="org.eclipse.core.runtime.xml.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.RulerContext</tags>
-            <tags>popup:.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacg7VoEeudYdwLZB526Q" elementId="org.eclipse.m2e.core.pomFile.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.core.pomFile.source.EditorContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieachLVoEeudYdwLZB526Q" elementId="org.eclipse.m2e.core.pomFile.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.core.pomFile.source.RulerContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieachbVoEeudYdwLZB526Q" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieachrVoEeudYdwLZB526Q" elementId="org.eclipse.m2e.core.pomFile.source.EditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.core.pomFile.source.EditorContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.source.EditorContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.EditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieach7VoEeudYdwLZB526Q" elementId="org.eclipse.m2e.core.pomFile.source.RulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.core.pomFile.source.RulerContext</tags>
-            <tags>popup:org.eclipse.core.runtime.xml.source.source.RulerContext</tags>
-            <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieaciLVoEeudYdwLZB526Q" elementId="org.eclipse.m2e.editor.MavenPomEditor.dependencies">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.editor.MavenPomEditor.dependencies</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_ieacibVoEeudYdwLZB526Q" elementId="org.eclipse.m2e.editor.MavenPomEditor.dependencyManagement">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:org.eclipse.m2e.editor.MavenPomEditor.dependencyManagement</tags>
-          </menus>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_pWwkkLVuEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="context-mapper.xml" iconURI="platform:/plugin/org.springframework.ide.eclipse.config.ui/icons/bean-config.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-mapper.xml&quot; partName=&quot;context-mapper.xml&quot; title=&quot;context-mapper.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-mapper.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-mapper.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>com.springsource.sts.config.ui.editors.SpringConfigEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_rDhBULVuEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EgovSample_Sample_SQL.xml" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/obj16/generic_editor.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;EgovSample_Sample_SQL.xml&quot; partName=&quot;EgovSample_Sample_SQL.xml&quot; title=&quot;EgovSample_Sample_SQL.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/sqlmap/example/mappers/EgovSample_Sample_SQL.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/resources/egovframework/sqlmap/example/mappers/EgovSample_Sample_SQL.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.ui.genericeditor.GenericEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_sMjtALVuEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="sql-mapper-config.xml" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/obj16/generic_editor.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;sql-mapper-config.xml&quot; partName=&quot;sql-mapper-config.xml&quot; title=&quot;sql-mapper-config.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/sqlmap/example/sql-mapper-config.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/resources/egovframework/sqlmap/example/sql-mapper-config.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.ui.genericeditor.GenericEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_snNBoLVuEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="sql-map-config.xml" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/obj16/generic_editor.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.genericeditor.GenericEditor&quot; name=&quot;sql-map-config.xml&quot; partName=&quot;sql-map-config.xml&quot; title=&quot;sql-map-config.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/sqlmap/example/sql-map-config.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/resources/egovframework/sqlmap/example/sql-map-config.xml&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.ui.genericeditor.GenericEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_6wIrMLVuEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="globals.properties" iconURI="platform:/plugin/jp.gr.java_conf.ussiy.app.propedit/icons/IconByTaroTw.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor&quot; name=&quot;globals.properties&quot; partName=&quot;globals.properties&quot; title=&quot;globals.properties&quot; tooltip=&quot;testPage/src/main/resources/egovframework/egovProps/globals.properties&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/testPage/src/main/resources/egovframework/egovProps/globals.properties&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;23&quot; selectionOffset=&quot;922&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_KGct4LVvEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="context-sqlMap.xml" iconURI="platform:/plugin/org.springframework.ide.eclipse.config.ui/icons/bean-config.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;com.springsource.sts.config.ui.editors.SpringConfigEditor&quot; name=&quot;context-sqlMap.xml&quot; partName=&quot;context-sqlMap.xml&quot; title=&quot;context-sqlMap.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/spring/context-sqlMap.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/resources/egovframework/spring/context-sqlMap.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>com.springsource.sts.config.ui.editors.SpringConfigEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_NuhAwLVvEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EgovSample_Sample_SQL.xml" iconURI="platform:/plugin/egovframework.dev.imp.dbio/icons/editors/mapper_file.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;egovframework.dev.imp.dbio.editor.mapperEditor&quot; name=&quot;EgovSample_Sample_SQL.xml&quot; partName=&quot;EgovSample_Sample_SQL.xml&quot; title=&quot;EgovSample_Sample_SQL.xml&quot; tooltip=&quot;test_Mybatis/src/main/resources/egovframework/sqlmap/example/sample/EgovSample_Sample_SQL.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/resources/egovframework/sqlmap/example/sample/EgovSample_Sample_SQL.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>egovframework.dev.imp.dbio.editor.mapperEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_WEudwLVvEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="EgovSampleController.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;EgovSampleController.java&quot; partName=&quot;EgovSampleController.java&quot; title=&quot;EgovSampleController.java&quot; tooltip=&quot;test_Mybatis/src/main/java/egovframework/example/sample/web/EgovSampleController.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/java/egovframework/example/sample/web/EgovSampleController.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;4&quot; selectionTopPixel=&quot;2166&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_YwcdILVvEeuNpq0HR65zaA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SampleVO.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SampleVO.java&quot; partName=&quot;SampleVO.java&quot; title=&quot;SampleVO.java&quot; tooltip=&quot;test_Mybatis/src/main/java/egovframework/example/sample/service/SampleVO.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/test_Mybatis/src/main/java/egovframework/example/sample/service/SampleVO.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;4&quot; selectionTopPixel=&quot;6&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+          <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -669,7 +582,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
       <menus xmi:id="_ieac9rVoEeudYdwLZB526Q" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -797,40 +709,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieads7VoEeudYdwLZB526Q" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadtLVoEeudYdwLZB526Q" elementId="new.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadtbVoEeudYdwLZB526Q" elementId="newWizardDropDown">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadtrVoEeudYdwLZB526Q" elementId="new.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadt7VoEeudYdwLZB526Q" elementId="save.group" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaduLVoEeudYdwLZB526Q" elementId="save">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadubVoEeudYdwLZB526Q" elementId="saveAll">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadurVoEeudYdwLZB526Q" elementId="save.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ieadu7VoEeudYdwLZB526Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_iec66bVoEeudYdwLZB526Q"/>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadvLVoEeudYdwLZB526Q" elementId="print.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadvbVoEeudYdwLZB526Q" elementId="build.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadvrVoEeudYdwLZB526Q" elementId="build.ext" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadv7VoEeudYdwLZB526Q" elementId="additions">
-          <tags>Opaque</tags>
-        </children>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_h_OTILVqEeuNpq0HR65zaA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_iec66bVoEeudYdwLZB526Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieadwLVoEeudYdwLZB526Q" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -838,107 +717,29 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieadwrVoEeudYdwLZB526Q" elementId="org.eclipse.ui.workbench.edit" visible="false">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadw7VoEeudYdwLZB526Q" elementId="edit.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadxLVoEeudYdwLZB526Q" elementId="undo">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieadxbVoEeudYdwLZB526Q" elementId="redo">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieadxrVoEeudYdwLZB526Q" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
         <children xsi:type="menu:ToolBarSeparator" xmi:id="_ieadx7VoEeudYdwLZB526Q" elementId="additions" toBeRendered="false"/>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_iead-7VoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_iead-7VoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
         <children xsi:type="menu:HandledToolItem" xmi:id="_iead_LVoEeudYdwLZB526Q" elementId="org.eclipse.ui.genericeditor.togglehighlight" visible="false" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/etool16/mark_occurrences.png" selected="true" type="Check" command="_iec7M7VoEeudYdwLZB526Q">
           <persistedState key="IIdentifier" value="org.eclipse.ui.genericeditor/org.eclipse.ui.genericeditor.togglehighlight"/>
           <visibleWhen xsi:type="ui:CoreExpression" xmi:id="_iead_bVoEeudYdwLZB526Q" coreExpressionId="programmatic.value"/>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_iead_rVoEeudYdwLZB526Q" elementId="Presentation">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_iead_7VoEeudYdwLZB526Q" elementId="org.eclipse.mylyn.java.ui.editor.folding.auto">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeALVoEeudYdwLZB526Q" elementId="org.eclipse.jdt.ui.edit.text.java.toggleBreadcrumb">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeAbVoEeudYdwLZB526Q" elementId="org.eclipse.jdt.ui.edit.text.java.toggleMarkOccurrences">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeArVoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.toggleWordWrap">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeA7VoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.toggleBlockSelectionMode">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeBLVoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.toggleShowWhitespaceCharacters">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeBbVoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly" visible="false">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieaeBrVoEeudYdwLZB526Q" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeB7VoEeudYdwLZB526Q" elementId="debug">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeCLVoEeudYdwLZB526Q" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeCbVoEeudYdwLZB526Q" elementId="org.springsource.ide.eclipse.commons.launch.stop.action">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeCrVoEeudYdwLZB526Q" elementId="org.springsource.ide.eclipse.commons.launch.relaunch.action">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeC7VoEeudYdwLZB526Q" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeDLVoEeudYdwLZB526Q" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieaeDbVoEeudYdwLZB526Q" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeDrVoEeudYdwLZB526Q" elementId="JavaWizards">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeD7VoEeudYdwLZB526Q" elementId="org.eclipse.jdt.ui.actions.OpenProjectWizard" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeELVoEeudYdwLZB526Q" elementId="org.eclipse.jdt.ui.actions.OpenPackageWizard">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeEbVoEeudYdwLZB526Q" elementId="org.eclipse.jdt.ui.actions.NewTypeDropDown">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieaeErVoEeudYdwLZB526Q" elementId="org.eclipse.jst.j2ee.J2eeMainActionSet" visible="false">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieaeE7VoEeudYdwLZB526Q" elementId="org.eclipse.search.searchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeFLVoEeudYdwLZB526Q" elementId="Search">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeFbVoEeudYdwLZB526Q" elementId="openType">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeFrVoEeudYdwLZB526Q" elementId="org.eclipse.mylyn.tasks.ui.openTask">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeF7VoEeudYdwLZB526Q" elementId="org.eclipse.search.OpenSearchDialogPage">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeGLVoEeudYdwLZB526Q" elementId="org.springframework.ide.eclipse.beans.ui.openBeanAction">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieaeGbVoEeudYdwLZB526Q" elementId="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" visible="false">
         <tags>Draggable</tags>
@@ -952,52 +753,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieaeHbVoEeudYdwLZB526Q" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeHrVoEeudYdwLZB526Q" elementId="history.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeH7VoEeudYdwLZB526Q" elementId="group.application" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeILVoEeudYdwLZB526Q" elementId="backardHistory">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeIbVoEeudYdwLZB526Q" elementId="forwardHistory">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeIrVoEeudYdwLZB526Q" elementId="pin.group">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ieaeI7VoEeudYdwLZB526Q" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_iec6hLVoEeudYdwLZB526Q"/>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeJLVoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.gotoNextAnnotation">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeJbVoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.gotoPreviousAnnotation">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeJrVoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.gotoLastEditPosition">
-          <tags>Opaque</tags>
-        </children>
-      </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_ieaeJ7VoEeudYdwLZB526Q" elementId="jp.gr.java_conf.ussiy.app.propedit.editors.PropertiesEditor" visible="false">
-        <tags>Draggable</tags>
-      </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_ieaeKLVoEeudYdwLZB526Q" elementId="com.springsource.sts.config.ui.editors.SpringConfigEditor" visible="false">
-        <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeKbVoEeudYdwLZB526Q" elementId="springConfig" visible="false">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeKrVoEeudYdwLZB526Q">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeK7VoEeudYdwLZB526Q">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeLLVoEeudYdwLZB526Q" elementId="org.eclipse.gef.zoom_widget">
-          <tags>Opaque</tags>
-        </children>
-      </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_ieaeLbVoEeudYdwLZB526Q" elementId="org.eclipse.m2e.editor.MavenPomEditor" visible="false">
-        <tags>Draggable</tags>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_h_QvYrVqEeuNpq0HR65zaA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_iec6hLVoEeudYdwLZB526Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieaeLrVoEeudYdwLZB526Q" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1009,12 +765,6 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ieaeMrVoEeudYdwLZB526Q" elementId="org.eclipse.ui.workbench.help" visible="false">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_ieaeM7VoEeudYdwLZB526Q" elementId="group.help">
-          <tags>Opaque</tags>
-        </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_iebCgLVoEeudYdwLZB526Q" elementId="group.application" visible="false">
-          <tags>Opaque</tags>
-        </children>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_iebCgbVoEeudYdwLZB526Q" elementId="PerspectiveSpacer" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
         <tags>stretch</tags>
@@ -2552,6 +2302,23 @@
     <tags>View</tags>
     <tags>categoryTag:AmaterasUML</tags>
   </descriptors>
+  <trimContributions xmi:id="_2r10UF9tEeO-yojH_y4TJA" elementId="org.eclipse.ui.ide.application.trimcontribution.QuickAccess" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" toBeRendered="false" parentId="org.eclipse.ui.main.toolbar" positionInParent="last">
+    <children xsi:type="menu:ToolControl" xmi:id="_76uUAF9tEeO-yojH_y4TJA" elementId="Spacer Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+      <tags>glue</tags>
+      <tags>move_after:PerspectiveSpacer</tags>
+      <tags>SHOW_RESTORE_MENU</tags>
+    </children>
+    <children xsi:type="menu:ToolControl" xmi:id="_8tJPcF9tEeO-yojH_y4TJA" elementId="SearchField" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField">
+      <tags>move_after:Spacer Glue</tags>
+      <tags>HIDEABLE</tags>
+      <tags>SHOW_RESTORE_MENU</tags>
+    </children>
+    <children xsi:type="menu:ToolControl" xmi:id="_9LgmcF9tEeO-yojH_y4TJA" elementId="Search-PS Glue" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+      <tags>glue</tags>
+      <tags>move_after:SearchField</tags>
+      <tags>SHOW_RESTORE_MENU</tags>
+    </children>
+  </trimContributions>
   <commands xmi:id="_iecR17VoEeudYdwLZB526Q" elementId="org.eclipse.ui.window.customizePerspective" contributorURI="platform:/plugin/org.eclipse.platform" commandName="Customize Perspective" description="Customize the current perspective"/>
   <commands xmi:id="_iecR2LVoEeudYdwLZB526Q" elementId="org.eclipse.jdt.ui.correction.inlineLocal.assist" commandName="Quick Assist - Inline local variable" description="Invokes quick assist and selects 'Inline local variable'" category="_iedfNLVoEeudYdwLZB526Q"/>
   <commands xmi:id="_iecR2bVoEeudYdwLZB526Q" elementId="org.eclipse.ui.edit.text.select.pageUp" commandName="Select Page Up" description="Select to the top of the page" category="_iede_bVoEeudYdwLZB526Q"/>
