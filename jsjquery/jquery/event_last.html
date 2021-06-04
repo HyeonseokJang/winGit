@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<script src="/js/jquery.js"></script>
+<script>
+
+$(function(){
+
+var baseFontSize = 14;
+
+$(".zoomBtnZone button").on("click",zoominOut);
+function zoominOut(){
+    if($(this).hasClass("zoomOutBtn")){
+        if(baseFontSize<=5) return false;
+        baseFontSize--;
+    }else if($(this).hasClass("zoomInBtn")){
+        if(baseFontSize>=30)return false;
+        baseFontSize++;
+    }else{
+        baseFontSize =14;
+    }
+
+    $(".fontSize").text(baseFontSize+"px");
+    $("body").css({
+        fontSize:baseFontSize +"px"
+    });
+}
+
+ 
+
+
+});
+
+</script>
+
+</head>
+<body>
+    <p class="zoomBtnZone">
+
+        <button class="zoomOutBtn">-</button>
+        <button class="originBtn">100%</button>
+        <button class="zoomInBtn">+</button>
+    </p>
+    <p class="fontSize">14px</p>
+    <div class="wrap">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum tenetur aliquam similique illo laborum eaque ab dicta est quisquam illum molestiae voluptatem dolore perspiciatis officiis saepe et, laudantium doloremque exercitationem.
+    </div>
+</body>
+</html>
